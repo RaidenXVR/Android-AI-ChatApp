@@ -1,0 +1,9 @@
+kivy~=2.3.0
+KivyMD~=2.0.1.dev0
+requests
+kivy-deps.angle
+kivy-deps.glew
+kivy-deps.gstreamer
+kivy-deps.sdl2
+runpod
+asynckivy~=0.6.2
