@@ -238,11 +238,8 @@ ScreenManager:
                 color: app.theme_cls.secondaryColor
                 padding: "10sp"
 
-<Spacer@Widget>:
-    id: wid
-    width: 5
-    size_hint: None, None
-                
+
+
 """
 
 temp="""
